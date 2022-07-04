@@ -66,7 +66,7 @@ To export data into a MS SQL instance, so that dynamic dashboards can be created
 * Configure Stripe Authentication in application.yml (https://stripe.com/docs/api/authentication)
   ```sh
   stripe:
-    apikey: 'INSERT STRIP API KEY HERE'
+    apikey: 'INSERT STRIPE API KEY HERE'
   ```
   
 * Configure MS SQL Connection String (https://www.connectionstrings.com/microsoft-data-sqlclient/standard-security/)
