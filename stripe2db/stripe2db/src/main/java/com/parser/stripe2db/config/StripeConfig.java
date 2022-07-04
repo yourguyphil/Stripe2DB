@@ -16,7 +16,6 @@ import java.util.Map;
 public class StripeConfig {
 
     @Getter
-    @Value("${stripe.apikey}")
     private String stripeApiKey;
 
     public StripeConfig (@Value("${stripe.apikey}") String stripeApiKey){
