@@ -26,6 +26,7 @@ public class Stripe2dbApplication {
 		log.info("                   |_|                            ");
 
 		SpringApplication.run(Stripe2dbApplication.class, args);
+		log.info("App Started!");
 	}
 
 	@Autowired
