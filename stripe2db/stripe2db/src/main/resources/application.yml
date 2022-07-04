@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: "dev"
+
+sql:
+  connectionUri: 'sql connection url'
+
+stripe:
+  apikey: 'stripe api key'
