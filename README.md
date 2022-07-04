@@ -7,7 +7,9 @@
 
   <h3 align="center">Stripe2DB</h3>
   <p align="center">
-    Stripe API Data Export Tool that loads transaction information into MS SQL so that dynamic reports can be created using Power Bi.
+    Stripe API Data Export Tool that loads transaction information into MS SQL so that dynamic reports can be created using Power Bi. 
+    <br />
+    Exclusive use by <a href="https://veym.net/">VEYM</a>
     <br />
     <br />
     <a href="https://github.com/yourguyphil/Stripe2DB/blob/master/README.md"><strong>Explore the docs »</strong></a>
