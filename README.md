@@ -103,7 +103,7 @@ Docker image building example (From directory of Dockerfile)
 Power Bi Sample Dash
 
 <a href="https://github.com/yourguyphil/Stripe2DB/blob/master/README.md">
-  <img src="images/PowerBiDash.PNG" alt="Logo" width="2000" height="1000">
+  <img src="images/PowerBiDash.PNG" alt="Logo" width="1000" height="500">
 </a>
 
 See the [open issues](https://github.com/yourguyphil/Stripe2DB/issues) for a full list of proposed features (and known issues).
