@@ -80,8 +80,6 @@ To export data into a MS SQL instance, so that dynamic dashboards can be created
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a Stripe API Key at [Stripe API](https://stripe.com/docs/api), and configure a MS SQL DB
 2. Clone the repo
    ```sh
