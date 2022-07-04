@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/yourguyphil/Stripe2DB/blob/master/README.md">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Stripe2DB.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Stripe2DB</h3>
