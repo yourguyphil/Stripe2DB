@@ -144,6 +144,7 @@ Philips Nguyen - [@yourguyphil](https://github.com/yourguyphil)
 Shout out to these awesome projects
 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template/)
+* [Spring Initializr](https://start.spring.io/)
 * [Stripe API](https://stripe.com/docs/api)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
