@@ -61,12 +61,7 @@ To export data into a MS SQL instance, so that dynamic dashboards can be created
 <!-- GETTING STARTED -->
 ## Getting Started
 
-//TODO
-
 ### Prerequisites
-
-//TODO
-
 
 * Configure Stripe Authentication in application.yml (https://stripe.com/docs/api/authentication)
   ```sh
@@ -84,13 +79,14 @@ To export data into a MS SQL instance, so that dynamic dashboards can be created
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a Stripe API Key at [Stripe API](https://stripe.com/docs/api)
+1. Get a Stripe API Key at [Stripe API](https://stripe.com/docs/api), and configure a MS SQL DB
 2. Clone the repo
    ```sh
    https://github.com/yourguyphil/Stripe2DB.git
    ```
-3. Refresh Gradle
-4. Enjoy!
+3. Flesh out application.yml per the Prerequisites above
+4. Refresh Gradle
+5. BootRun Targeting Stripe2dbApplication
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,12 +94,17 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-//TODO
+Docker image building example (From directory of Dockerfile)
 
-<!-- ROADMAP -->
-## Roadmap
+  ```sh
+  docker build -t stripe2db:1.0 .
+  ```
 
-//TODO
+Power Bi Sample Dash
+
+<a href="https://github.com/yourguyphil/Stripe2DB/blob/master/README.md">
+  <img src="images/PowerBiDash.PNG" alt="Logo" width="200" height="100">
+</a>
 
 See the [open issues](https://github.com/yourguyphil/Stripe2DB/issues) for a full list of proposed features (and known issues).
 
