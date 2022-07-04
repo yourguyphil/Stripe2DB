@@ -38,6 +38,8 @@ public class StripeExportService {
                 String SQL = "TRUNCATE TABLE StripeBalanceTransaction";
 
                 stmt.executeQuery(SQL);
+            } catch (Exception e){
+
             }
 
             for (BalanceTransaction balanceTransaction : balanceTransactionsIterator) {
